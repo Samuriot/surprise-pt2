@@ -94,7 +94,7 @@ function App() {
 					<Card className="w-full max-w-md shadow-xl overflow-hidden">
 						<CardHeader className="text-center py-2 md:py-6">
 							<CardTitle className="text-lg md:text-3xl font-light text-gray-900">
-								Will you be my valentine?
+								Sky, will you please be my valentine?
 							</CardTitle>
 						</CardHeader>
 						<CardContent className="p-0">
